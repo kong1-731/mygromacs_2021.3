@@ -1,5 +1,5 @@
 # mygromacs_2021.3
-Extended gromacs-2021.3 with user-defined parameters.
+Development of extended gromacs-2021.3 with user-defined parameters.
 
 
 Unzip gromacs-2021.3.tar.gz
